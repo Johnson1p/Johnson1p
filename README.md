@@ -20,7 +20,6 @@ Here are some of my personal profile:
 - 👯 I’m currently living in [Singapore](https://www.google.com/maps/@1.3307223,103.8743073,11.36z)
 - 👪 I'm married and have 1 👦boy
 
-My LinkedIn profile: [陈峰](https://www.linkedin.com/in/chen3feng/)
 
 
 ## Programming Languages
